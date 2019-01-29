@@ -1,11 +1,11 @@
 # Data-Analytics
 a start to data science
 
-#Average Deliveries (By Weekday)
+Average Deliveries (By Weekday)
 https://plot.ly/~Sijra/16
 
-#Total Sales (By Month)
+Total Sales (By Month)
 https://plot.ly/~Sijra/24
 
-#Total Sales (By Day)
+Total Sales (By Day)
 https://plot.ly/~Sijra/22
