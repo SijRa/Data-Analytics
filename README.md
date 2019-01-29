@@ -1,5 +1,4 @@
-# Data-Analytics
-a start to data science
+# Visualising Sales
 
 Average Deliveries (By Weekday)
 https://plot.ly/~Sijra/16
